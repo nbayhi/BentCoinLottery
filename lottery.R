@@ -1,9 +1,8 @@
 # 
-# Author: Graham Smith
+# Author: Graham Smith, edited: Nick Bayhi
 # 
-# A simulation of a lottery based on flipping a bent coin 10 times
+# A function to simulate a lottery based on flipping a bent coin 10 times
 #
-# Currently written with questionable coding practices
 #
 
 library(stats)
